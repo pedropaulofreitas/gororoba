@@ -1,0 +1,26 @@
+/*
+ * Readme of gororoba app conception and development
+ * Author: Pedro Paulo Freitas
+ * Date: 05/02/16
+ *
+ */
+
+    O app consiste em uma busca por receitas que podem ser reproduzidas
+ somente com os ingredientes que o usuario tem em casa evitando frustracoes
+ comuns quando se vai executar uma receita e falta algum ingrediente.
+
+Funcionamento na pratica:
+
+1) insercao pelo usuario dos ingredientes disponiveis
+
+  >  Campo de busca, checklist.
+
+2) Busca
+
+
+  > resultado separando receitas por categoria ex.(encontramos: 2 sobremesas, 1 prato principal, 1 refresco)
+
+  > caso nao haja nenhuma ocorencia sugerir um ingrediente que ajudaria
+
+Esta e a ideia basica do app, acredito que e o suficite para uma versao Beta. Nao sei de onde vamos copiar as
+receitas, podemos aceitar receitas dos usuarios e futuramente eleger uma gororoba do dia.
